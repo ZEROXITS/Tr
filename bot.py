@@ -7,7 +7,7 @@ import telebot
 from telebot import types
 
 # توكن بوت التيليجرام
-API_TOKEN = '5966375685:AAEQO-MxUiW9Da7j3o1jQblK2GU-5keczm8'
+API_TOKEN = '5693332096:AAFXzkQ_SU2TfRYDzXD3AN2b7QlibPfmhas'
 bot = telebot.TeleBot(API_TOKEN)
 
 # معرف مالك البوت
